@@ -1,0 +1,1 @@
+ssh -N -f -D 7070 user@ip
